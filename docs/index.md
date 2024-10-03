@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+slug: /
+sidebar_position: 0
 title: 欢迎
 ---
 
